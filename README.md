@@ -1,2 +1,2 @@
 # Reiman
-representation de la fonction de repartition de reiman
+la representation de la fonction de repartition de reiman
